@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettenrechnung", "Kettenrechnung\Kettenrechnung.csproj", "{EC3E61CF-4681-4F63-ACB0-ECF04021272C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRechner", "TestRechner\TestRechner.csproj", "{3B2CED9C-0D9F-452B-B0E7-21004B92686E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3E61CF-4681-4F63-ACB0-ECF04021272C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3E61CF-4681-4F63-ACB0-ECF04021272C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3E61CF-4681-4F63-ACB0-ECF04021272C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3E61CF-4681-4F63-ACB0-ECF04021272C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2CED9C-0D9F-452B-B0E7-21004B92686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2CED9C-0D9F-452B-B0E7-21004B92686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2CED9C-0D9F-452B-B0E7-21004B92686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2CED9C-0D9F-452B-B0E7-21004B92686E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F162781-9007-4FEC-97FE-AE71AC5B2FC6}
+	EndGlobalSection
+EndGlobal

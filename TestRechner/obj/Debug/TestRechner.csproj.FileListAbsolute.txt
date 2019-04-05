@@ -1,0 +1,16 @@
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\bin\Debug\TestRechner.dll
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\bin\Debug\TestRechner.pdb
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\bin\Debug\RechnerInterface.dll
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csprojAssemblyReference.cache
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csproj.CoreCompileInputs.cache
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csproj.CopyComplete
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.dll
+D:\Programmierung\Git\Repos\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.pdb
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\bin\Debug\TestRechner.dll
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\bin\Debug\TestRechner.pdb
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\bin\Debug\RechnerInterface.dll
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csprojAssemblyReference.cache
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csproj.CoreCompileInputs.cache
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.csproj.CopyComplete
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.dll
+D:\Programmierung\Git\Repos\Kata\Kettenrechnung-Kurz\TestRechner\obj\Debug\TestRechner.pdb
